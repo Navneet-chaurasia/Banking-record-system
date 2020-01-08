@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1578502141 source:d:\important c++ codes\banking-record-system\main.cpp
+	<bits/stdc++.h>
+	"account_query.h"
+
+1578502467 d:\important c++ codes\banking-record-system\account_query.h
+	<bits/stdc++.h>
+
